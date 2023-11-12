@@ -1,0 +1,12 @@
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project NIOP.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project_NIOP.Form1.resources
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project_NIOP.Form2.resources
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project_NIOP.Properties.Resources.resources
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project NIOP.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project NIOP.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\bin\Debug\Project NIOP.exe.config
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\bin\Debug\Project NIOP.exe
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\bin\Debug\Project NIOP.pdb
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project NIOP.exe
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project NIOP.pdb
+C:\Users\Martin\source\repos\Project NIOP\Project NIOP\obj\Debug\Project_NIOP.Form3.resources
