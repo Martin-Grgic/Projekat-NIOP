@@ -23,15 +23,12 @@ namespace Project_NIOP
             double q1 = Convert.ToDouble(naboj1.Text);
             double q2 = Convert.ToDouble(naboj2.Text);
             double r = Convert.ToDouble(udaljenost.Text);
-            double k = 9 * Math.Pow(9, 9);
+            double k = 9 * Math.Pow(10, 9);
 
             double rez =k * ((q1 * q2) / Math.Pow(r, 2));
 
-            //Zaokruzuzivanje rezultata na 4 decimale
-            double roundRez = Math.Round(rez, 4);
-
             //Prikazivanje rezultat u labelu
-            rezultatElPolje.Text = roundRez.ToString();
+            rezultatElPolje.Text = rez.ToString();
         }
 
         private void NatragElPolje_Click(object sender, EventArgs e)
